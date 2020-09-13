@@ -58,7 +58,7 @@ For the water temperature, all of the filtered data sets for the analysis and vi
 
 6. Challenges
 
-   * Not all the states in the Chesapeake Bay area have comprehensively data in the 5-year window. 
+   * Not all the states in the Chesapeake Bay area have comprehensive data in the 5-year window. 
    * Most data sets are in large magnitude, and hope to be able to access data sets in the FTP in the near future
 
 7. Recommendation
