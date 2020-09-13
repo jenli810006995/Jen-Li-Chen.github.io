@@ -57,7 +57,7 @@ For the water temperature, all of the filtered data sets for the analysis and vi
    Additionally, With Tableau's geospatial mapping feature, I was able to check on the land use in the above region, The Yellow Breeches Creek in Pennsylvania, 
    which is a commonly fishing resort ([Reference](https://www.orvis.com/fishing_report.aspx?locationid=6015))
    
-   * [Tableau Youtube Demonstration](https://jenli810006995.github.io/)
+   [![](http://img.youtube.com/vi/HbeXM46JjAo/0.jpg)](http://www.youtube.com/watch?v=HbeXM46JjAo "2020 Chesapeake Bay Hack the Bay Hackathon Data Visualization")
 
 6. Challenges
 
