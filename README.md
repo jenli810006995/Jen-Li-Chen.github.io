@@ -55,8 +55,6 @@ For the water temperature, all of the filtered data sets for the analysis and vi
    which is a commonly fishing resort ([Reference](https://www.orvis.com/fishing_report.aspx?locationid=6015))
    
    * [Tableau Youtube Demonstration](https://jenli810006995.github.io/)
-   
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/HbeXM46JjAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 6. Challenges
 
