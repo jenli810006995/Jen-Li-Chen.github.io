@@ -28,27 +28,26 @@ For the water temperature, all of the filtered data sets for the analysis and vi
     
         After plotting water temperature within 2015 to 2020, I found the temperature range for the winter has something interesting to look at. Especially after 2017. For Example, the following scale of the winter water temperature reveals the increasing range:
     
-    ![2017 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2017_winter_cbp_range.jpg)
-    ![2018 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2018_winter_cbp_range.jpg)
-    ![2020 Winter](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2020_winter_cbp_range.jpg)
+    ![2017 Winter](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2017_winter_cbp_range.jpg)
+    ![2018 Winter](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2018_winter_cbp_range.jpg)
+    ![2020 Winter](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2020_winter_cbp_range.jpg)
     
     3. Geospatial Maps: 
     
         I used the 5-year water temperature for the color scale, so I would be able to see whether a certain range of temperature increases in certain area. In 2020, there are several unusual high temperature points.
     
-    ![2015 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2015%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2016 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2016%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2017 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2017%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2018 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2018%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2019 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2019%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2020 Summer CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2020%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2015 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2015%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2016 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2016%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2017 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2017%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2018 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2018%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2019 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2019%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    ![2020 Winter CMC](https://github.com/jenli810006995/Hack_the_Bay_Repo/blob/master/Images/2020%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
-    
+    ![2015 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2015%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2016 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2016%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2017 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2017%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2018 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2018%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2019 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2019%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2020 Summer CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2020%20Summer%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2015 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2015%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2016 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2016%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2017 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2017%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2018 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2018%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2019 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2019%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
+    ![2020 Winter CMC](https://github.com/jenli810006995/jenli810006995.github.io/blob/master/Images/2020%20Winter%20CMC%20Water%20Temperature%20Heatmap.png)
     
 
 5. Data Visualization
