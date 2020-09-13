@@ -1,16 +1,24 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+# Site wide configuration
 
-theme: jekyll-theme-cayman
+title: Jen-Li Chen's Website
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Jen-Li Chen
+  #avatar: bio-photo.jpg
+  bio: "Here I place my projects"
+  email: jc3992@rit.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: @ChenJenli
+  linkedin: https://www.linkedin.com/in/jenlichen
+  github: https://github.com/jenli810006995
+  #orcid: # ID Number (ex. 0000-0000-0000-0000)
+  #researchgate: #username
+  #mendeley: #username
+  #google:
+    #plus: #username
+    #analytics:
+    #verify:
+    #scholar: #id
