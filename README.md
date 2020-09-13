@@ -28,9 +28,9 @@ For the water temperature, all of the filtered data sets for the analysis and vi
     
         After plotting water temperature within 2015 to 2020, I found the temperature range for the winter has something interesting to look at. Especially after 2017. For Example, the following scale of the winter water temperature reveals the increasing range:
     
-    ![2017 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2017_winter_cbp_range.jpg)
-    ![2018 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2018_winter_cbp_range.jpg)
-    ![2020 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2020_winter_cbp_range.jpg)
+    ![2017 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2017_winter_cbp_range.JPG)
+    ![2018 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2018_winter_cbp_range.JPG)
+    ![2020 Winter](https://github.com/jenli810006995/Jen-Li-Chen.github.io/blob/master/Images/2020_winter_cbp_range.JPG)
     
     3. Geospatial Maps: 
     
